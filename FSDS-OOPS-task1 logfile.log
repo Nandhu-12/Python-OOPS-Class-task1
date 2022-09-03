@@ -1,0 +1,12 @@
+2022-09-03 11:18:00,778 string class constructor is created
+2022-09-03 11:18:00,779 string entered by user to reverse
+2022-09-03 11:18:00,779 reversing the string
+2022-09-03 11:18:00,780 string entered by user to find vowels
+2022-09-03 11:18:00,780 picking up vowels from string
+2022-09-03 11:18:00,780 string entered by user to extract
+2022-09-03 11:18:00,780 juming 3 charc in string
+2022-09-03 11:18:00,780 extracting list entities
+2022-09-03 11:18:00,781 extracting dict entities
+2022-09-03 11:18:00,781 extracting tuple entities
+2022-09-03 11:18:00,781 extracting set entities
+2022-09-03 11:18:00,781 Counting the occurence of each item in list
